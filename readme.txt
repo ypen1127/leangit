@@ -4,3 +4,4 @@ banana
 peach
 dog
 cat
+out
